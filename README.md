@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently Student at [ALX Africa](https://www.alxafrica.com/)
 
-- 👨‍💻 All of my projects are available at [wakasso.com](wakasso.com)
+- 👨‍💻 All of my projects are available at [wakasso.com](https://wakasso.com)
 
 - 💬 Ask me about **Js and Interaction Design**
 
 - 📫 How to reach me **wakasso42furtif@gmail.com**
 
-- 📄 Know about my experiences [wakasso.social](wakasso.social)
+- 📄 Know about my experiences [wakasso.social](https://wakasso.social)
 
 - ⚡ Fun fact **I'm sociable and funny**
 
