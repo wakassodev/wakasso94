@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently Student at [ALX Africa](https://www.alxafrica.com/)
 
-- 👨‍💻 All of my projects are available at [wakasso.com](https://wakasso.com/#)
+- 👨‍💻 All of my projects are available at [wakasso.com](https://wakasso.com/)
 
 - 💬 Ask me about **Js and Interaction Design**
 
