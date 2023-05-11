@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **UI/UX Design and frontend developer**
 
-- 👨‍💻 All of my projects are available at [wakasso.com](https://wakasso.com/)
+<!-- - 👨‍💻 All of my projects are available at [wakasso.com](https://wakasso.com/) -->
 
 - 💬 Ask me about **Js and Interaction Design**
 
 - 📫 How to reach me **wakasso42furtif@gmail.com**
 
-- 📄 Know about my experiences [wakasso.social](https://wakasso.social/)
+<!-- - 📄 Know about my experiences [wakasso.social](https://wakasso.social/) -->
 
 - ⚡ Fun fact **I'm sociable and funny**
 
